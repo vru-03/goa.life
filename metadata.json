@@ -1,0 +1,6 @@
+{
+  "name": "goa.life",
+  "description": "Discover curated cafes, pristine beaches, nightlife, heritage quarters, interactive maps, local insider guides, and traveler reviews for North and South Goa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
